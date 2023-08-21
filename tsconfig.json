@@ -1,0 +1,10 @@
+{
+  "include": ["**/*.ts", "**/*.tsx"],
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "lib": ["dom", "es2015"],
+    "jsx": "react-jsx"
+  }
+}
